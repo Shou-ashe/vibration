@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\surface\desktop\学习资料\振动理论\振动理论大作业- pb1805111-陈源\源码1\consoleapplication2\consoleapplication2.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\surface\desktop\学习资料\振动理论\振动理论大作业- pb1805111-陈源\源码1\consoleapplication2\consoleapplication2.cpp(22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\surface\desktop\学习资料\振动理论\振动理论大作业- pb1805111-陈源\源码1\consoleapplication2\consoleapplication2.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\surface\desktop\学习资料\振动理论\振动理论大作业- pb1805111-陈源\源码1\consoleapplication2\consoleapplication2.cpp(28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ConsoleApplication2.vcxproj -> C:\Users\Surface\Desktop\学习资料\振动理论\振动理论大作业- PB1805111-陈源\源码1\Debug\ConsoleApplication2.exe
